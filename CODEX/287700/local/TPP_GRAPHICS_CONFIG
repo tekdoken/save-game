@@ -1,0 +1,28 @@
+{
+   "as" : "UnRsn4CGPbo=",
+   "graphics" : {
+      "quality_setting" : {
+         "depth_of_field" : "Enable",
+         "effect" : "Low",
+         "lighting" : "Low",
+         "model_detail" : "Medium",
+         "motion_blur_amount" : "Off",
+         "postprocess" : "Low",
+         "shadow" : "Medium",
+         "ssao" : "Off",
+         "texture" : "Medium",
+         "texture_filtering" : "Medium",
+         "volumetric_clouds" : "Off"
+      },
+      "version" : 1,
+      "videoout_setting" : {
+         "display_index" : 0,
+         "framerate_control" : "Limited30",
+         "height" : 768,
+         "vsync" : "Disable",
+         "width" : 1366,
+         "window_mode" : "FullScreen"
+      }
+   },
+   "project" : "tpp"
+}
